@@ -1,0 +1,1 @@
+System.register(["./_plugin-vue_export-helper-legacy-DySZQj4h.js"],(function(e,t){"use strict";var r;return{setters:[function(e){r=e._}],execute:function(){e("default",r({},[["render",function(e,t){return" 常规设置 "}]]))}}}));
