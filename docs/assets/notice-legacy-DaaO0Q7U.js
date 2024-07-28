@@ -1,0 +1,1 @@
+System.register(["./index-legacy-J1lKYr-z.js"],(function(t,e){"use strict";var n;return{setters:[function(t){n=t.ap}],execute:function(){t("g",(function(t){return n({url:"/notice/queryNoticeList",method:"POST",data:t})}))}}}));
