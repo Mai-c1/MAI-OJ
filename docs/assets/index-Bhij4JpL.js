@@ -1,0 +1,1 @@
+import{d as s,ag as t,s as n,o as a,c as r,q as c,g as d,t as f,l}from"./index-LKtde7Go.js";const _={style:{color:"#fdfdfd"}},x=s({__name:"index",setup(p){const e=t(),{tokenInfo:o}=n(e);return(i,u)=>(a(),r("div",_,[c(" 个人主页 "),d("pre",null,"    "+f(l(o))+"\n  ",1)]))}});export{x as default};

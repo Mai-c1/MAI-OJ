@@ -1,1 +1,0 @@
-System.register(["./_plugin-vue_export-helper-legacy-DySZQj4h.js","./index-legacy-7hHSqY3I.js"],(function(e,n){"use strict";var t,u,r;return{setters:[function(e){t=e._},function(e){u=e.o,r=e.c}],execute:function(){e("default",t({},[["render",function(e,n){return u(),r("h1",null,"Discussion")}]]))}}}));

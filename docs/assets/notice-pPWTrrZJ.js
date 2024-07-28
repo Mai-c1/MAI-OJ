@@ -1,0 +1,1 @@
+import{h as e}from"./httpAdmin-BbXC_-kD.js";const o=async t=>await e({url:"/notice/queryNoticeList",method:"POST",data:t}),i=async t=>await e({url:"/notice/getNotice?id=".concat(t),method:"GET"}),c=async t=>await e({url:"/notice/saveNotice",method:"POST",data:t}),n=async t=>await e({url:"/notice/deleteById?id=".concat(t),method:"DELETE"});export{n as d,c as e,i as g,o as q};
